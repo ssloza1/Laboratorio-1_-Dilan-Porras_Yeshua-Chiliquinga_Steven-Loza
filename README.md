@@ -1,9 +1,9 @@
 # Laboratorio-1_-Dilan-Porras_Yeshua-Chiliquinga_Steven-Loza
 # InformeLaboratorio
 
-1. OBJETIVOS
+## 1. OBJETIVOS
 
-2. MARCO TEÓRICO 
+## 2. MARCO TEÓRICO 
   ### 2.1.Antecedentes.
   Nacido en Rusia-Berlín en 1924, el gran Krchhoff, Físico aleman aplicó métodos de análisis espectrográfico para determinar la composicón del sol. Estableció en base a  los prinicpios de conservación de la energía y de la carga, sus leyes aplicables a circuitos eléctricos.
   ### 2.2. Sus Leyes.
@@ -25,12 +25,12 @@
   * 5.- Para cada uno de los nodos se plantean de acuerdo a las Leyes de Kirchhoff. Básicamente, sume todas las corrientes que pasan por el nodo e igualelas a 0. Si el número de nodos es n, el núemro de ecuaciones será por lo menos n-1.
   * 6.- Si hay fuentes de tensión entre dos tensiones desconocídas, una esos dos nodos como un supernodo. Las corrientes de los dos nodos se combinan en una nueva ecuación muy sencilla.
   * 7.- Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida.
-3. EXPLICACIÓN DEL PROCEDIMIENTO
+## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-5. VIDEO
+## 5. VIDEO
 
-6. CONCLUSIONES
+## 6. CONCLUSIONES
 
-7. BIBLIOGRAFÍA
+## 7. BIBLIOGRAFÍA
