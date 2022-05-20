@@ -8,7 +8,7 @@
   Nacido en Rusia-Berlín en 1924, el gran Krchhoff, Físico aleman aplicó métodos de análisis espectrográfico para determinar la composicón del sol. Estableció en base a  los prinicpios de conservación de la energía y de la carga, sus leyes aplicables a circuitos eléctricos.
   ### 2.2. Sus Leyes.
   En 1845 enunció sus leyes aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica, similar a una extensión de la ley de la conservación de la energía, basándose en la teoría del físico Georg Simon Ohm, el cual su estudio dice que la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente. 
-  ## 2.3. Primera y segunda ley.
+  ### 2.3. Primera y segunda ley.
   ### 2.3.1. Ley de corrientes de kirchhoff.
   Es también llamada ley de nodos o primera ley de Kirochhoff es común que se use la sigla LCK para referirse a esta ley. Esta ley dicta:
  "En cualquier nodo, la suma de la corriente que entra en ese nodo es igual a la suma de la corriente que sale. De igual forma, la suma algebraica de todas las corriente que pasan por el nodo es igual a cero."
