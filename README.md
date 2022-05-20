@@ -9,8 +9,6 @@
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
-
 5. VIDEO
 
 6. CONCLUSIONES
