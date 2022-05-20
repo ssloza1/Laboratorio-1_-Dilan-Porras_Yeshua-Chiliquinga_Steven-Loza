@@ -48,7 +48,7 @@ Analizar y demostrar las leyes de Kirchhoff para comprender sus fundamentos y su
 
 •	Las leyes de Kirchhoff son un fundamento principal para entender la composición de los circuitos por lo cual si se desea entender los conceptos básicos de la electrónica Kirchhoff es una de las fuentes más importantes a la hora de implementar y para realizar ejercicios.
 
-## 7. Recomendaciones:
+## 7. RECOMENDACIONES:
 
 •	Aprenderse las leyes de Kirchhoff y su implementación en la electrónica uno de los requisitos mas importantes esto nos ayudara a solucionar problemas y evitar máximos errores, cortos circuitos y altas impedancias.
 
