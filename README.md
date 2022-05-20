@@ -18,7 +18,7 @@
  En toda la malla la suma de todas las caídas de tensión es igual a la tensión es giaul a la tensión total suministrada. De forma equivalente. En toda malla la suma algebraica de las diferencias de potencial eléctrico es igual a 0.
   ### ![image](https://user-images.githubusercontent.com/104863870/169458300-4abc62ac-a88e-4729-b5c2-63757d3b7bd8.png)
   ### 2.4. Pasos para el análisis de nodos.
-  ### 1.- Localice los segmentos de cable conectados al circuito, estos nodos se usarán para el método.
+  * 1.- Localice los segmentos de cable conectados al circuito, estos nodos se usarán para el método.
   ### 2.- Se leccione un nodo de referencia (polo tierra). Se puede elegir cualquier nodo ya que esto no afecta para nada los cálculo, pero si cogemos un nodo con más conexiones puede que se nos simplifique el análisis.
   ### 3.- Identifique los nodos que están conectados a fuentes de voltaje que tengan una terminal en el nodo de refetencia. En este caso de los nodos la fuente define la tensión del nodo. En estos nodos la fuente define la tensión del nodo. Si la fuente es independiente, la tensión del nodo es conocida. Entonces no se aplica la LCK.
   ### 4.- Asigne una variable para los nodos que tengan tensiones desconocidas.
