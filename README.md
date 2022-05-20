@@ -90,6 +90,8 @@ Pero con todas las tablas anteriores se puede comprobar que las leyes de Kirchho
 
 ## 5. VIDEO
 
+https://youtu.be/4eA85rLgVzU
+
 ## 6. CONCLUSIONES
 
 •	En la implementación de las leyes de Kirchhoff se ha planteado que para su correcta aplicación los cálculos deben ser aproximados y verificar que los componentes no excedan su capacidad ya que se puede presentar cortos circuitos o caso de alta impedancia.
