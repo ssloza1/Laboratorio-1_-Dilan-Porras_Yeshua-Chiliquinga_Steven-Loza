@@ -12,10 +12,11 @@ INGENIERO:
 
  DARWIN ALULEMA
 
-### ESTUDIANTES:
-- DILAN PORRAS
-- STEVEN LOZA
-- YESHUA CHILIQUINGA
+ESTUDIANTES:
+
+DILAN PORRAS
+STEVEN LOZA
+YESHUA CHILIQUINGA
 
 TEMA DEL LABORATORIO:
 
@@ -79,12 +80,15 @@ Analizar y demostrar las leyes de Kirchhoff para comprender sus fundamentos y su
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-<img width="474" alt="image" src="https://user-images.githubusercontent.com/104999420/169564794-c9002c4a-7e5e-4cf3-89d4-f7b721695054.png">
+1.52.	Respuestas a interrogantes y cálculo de error
+Calcular errores de las mediciones y comentar los resultados.
 
+Como se puede observar en la tabla existe un pequeño margen de error en el valor calculado y el valor medido, esto puede ser porque el simulado pudo darnos valores mas exactos o porque en el valor calculado, no se aplicó todos los decimales.
+Pero con todas las tablas anteriores se puede comprobar que las leyes de Kirchhoff si se cumplen ya que los valores medidos y calculados son muy parecidos, solo que tienen un margen de error mínimo.
+
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/104999420/169564993-ed9e0de7-3069-46b2-853f-3eb3c85338bf.png">
 
 ## 5. VIDEO
-
-https://youtu.be/4eA85rLgVzU
 
 ## 6. CONCLUSIONES
 
