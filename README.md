@@ -36,4 +36,5 @@
 ## 6. CONCLUSIONES
 
 ## 7. BIBLIOGRAFÍA
-Biografia de Gustav Kirchhoff. (s. f.). Recuperado 20 de mayo de 2022, de https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm                                  El Gran Kirchhoff. (s.f). Recuperado 20 de mayo de 2022, de http://dcb.fic.unam.mx/CoordinacionesAcademicas/FisicaQuimica/ElectricidadMagnetismo/biografias/7%20Gustav%20Kirchhoff.pdf
+- Biografia de Gustav Kirchhoff. (s. f.). Recuperado 20 de mayo de 2022, de https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm                                 
+- El Gran Kirchhoff. (s.f). Recuperado 20 de mayo de 2022, de http://dcb.fic.unam.mx/CoordinacionesAcademicas/FisicaQuimica/ElectricidadMagnetismo/biografias/7%20Gustav%20Kirchhoff.pdf
