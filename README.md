@@ -1,6 +1,9 @@
 # Laboratorio-1_-Dilan-Porras_Yeshua-Chiliquinga_Steven-Loza
 # InformeLaboratorio
 
+
+abecedario
+
 1. OBJETIVOS
 
 2. MARCO TEÓRICO 
