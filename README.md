@@ -13,10 +13,12 @@
   Es también llamada ley de nodos o primera ley de Kirochhoff es común que se use la sigla LCK para referirse a esta ley. Esta ley dicta:
  "En cualquier nodo, la suma de la corriente que entra en ese nodo es igual a la suma de la corriente que sale. De igual forma, la suma algebraica de todas las corriente que pasan por el nodo es igual a cero."
  ### ![image](https://user-images.githubusercontent.com/104863870/169456769-a36e21f1-97cf-4f43-95c4-e5544ee93699.png)
+ Imagen 1: Fórmula de la Primera ley
  ### 2.3.2. Ley de voltajes de Kirchhoff
  Esta ley también es llamada la segunda ley de Krichhoff, ley de lazos de Kirchhoff, se usa la sigla LVK para referirse a esta ley.
  En toda la malla la suma de todas las caídas de tensión es igual a la tensión es giaul a la tensión total suministrada. De forma equivalente. En toda malla la suma algebraica de las diferencias de potencial eléctrico es igual a 0.
-  ### ![image](https://user-images.githubusercontent.com/104863870/169458300-4abc62ac-a88e-4729-b5c2-63757d3b7bd8.png)
+  ### ![image](https://user-images.githubusercontent.com/104863870/169458300-4abc62ac-a88e-4729-b5c2-63757d3b7bd8.png) 
+  Imagen 2: Fórumal de la segunda ley
   ### 2.4. Pasos para el análisis de nodos.
   * 1.- Localice los segmentos de cable conectados al circuito, estos nodos se usarán para el método.
   * 2.- Se leccione un nodo de referencia (polo tierra). Se puede elegir cualquier nodo ya que esto no afecta para nada los cálculo, pero si cogemos un nodo con más conexiones puede que se nos simplifique el análisis.
