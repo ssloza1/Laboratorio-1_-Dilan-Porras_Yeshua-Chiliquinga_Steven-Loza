@@ -62,27 +62,26 @@ Analizar y demostrar las leyes de Kirchhoff para comprender sus fundamentos y su
   * 7.- Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida.
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-<img width="403" alt="image" src="https://user-images.githubusercontent.com/104999420/169557360-42023b09-1afa-4510-a2a1-ddffb7370a62.png">
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/104999420/169564211-111a4f63-7b49-4c00-b658-1738887f6561.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/104999420/169557415-309201e1-f63b-46a6-a5a2-764e79ebd7db.png">
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/104999420/169564277-e7084580-b6e8-44fb-b8a0-94db78fdcdfb.png">
 
-<img width="462" alt="image" src="https://user-images.githubusercontent.com/104999420/169557454-d37a3acc-d0df-4068-8873-57dbcdc683d7.png">
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/104999420/169564331-048cdf2c-476d-47f5-a8cf-594d4b2d2ee8.png">
 
-<img width="346" alt="image" src="https://user-images.githubusercontent.com/104999420/169557517-46f2344a-a2b1-4c06-a1e3-ef05413fd5d9.png">
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/104999420/169564449-e82e0ffa-e83f-4b56-912f-07a6acf5f3d8.png">
 
-<img width="454" alt="image" src="https://user-images.githubusercontent.com/104999420/169557552-f7071a14-08be-4107-a32a-57b26897ea83.png">
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/104999420/169564485-f7397352-46b8-4234-8c81-966c76d7ba44.png">
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/104999420/169557620-71eaf842-16f2-48ed-b4f0-560623959484.png">
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/104999420/169564525-6f5522e8-aa23-4507-8587-2621f4d05a64.png">
 
-<img width="447" alt="image" src="https://user-images.githubusercontent.com/104999420/169557700-31b0094d-1fcc-4e58-8142-d83943887a99.png">
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/104999420/169564658-b4d0f59b-20fd-4738-8f41-7f7485d186ac.png">
 
-<img width="479" alt="image" src="https://user-images.githubusercontent.com/104999420/169557743-87b591e9-f64e-4f4d-9492-f738cb8a5149.png">
-
-<img width="474" alt="image" src="https://user-images.githubusercontent.com/104999420/169557832-2b719a27-141b-499f-997e-c85aa0a6b741.png">
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/104999420/169564706-554f810e-2156-4796-93ea-87624d6481ec.png">
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-<img width="464" alt="image" src="https://user-images.githubusercontent.com/104999420/169562449-166b387d-edc0-4cf4-a146-33db78c4fd5d.png">
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/104999420/169564794-c9002c4a-7e5e-4cf3-89d4-f7b721695054.png">
+
 
 ## 5. VIDEO
 
