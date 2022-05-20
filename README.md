@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/104999420/169556986-b534142c-47c5-41ca-b293-9951224741d2.png)
+![image](https://user-images.githubusercontent.com/105320981/169589146-23574580-d5de-43cb-825d-f510a2e4c035.png)
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS
 ESPE
