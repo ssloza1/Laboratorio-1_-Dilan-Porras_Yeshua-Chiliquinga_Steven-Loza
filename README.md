@@ -1,7 +1,16 @@
 # Laboratorio-1_-Dilan-Porras_Yeshua-Chiliquinga_Steven-Loza
 # InformeLaboratorio
 
-## 1. OBJETIVOS
+## 1. OBJETIVOS:
+#### 1.1 OBJETIVO GENERAL: 
+
+Analizar y demostrar las leyes de Kirchhoff para comprender sus fundamentos y sus características aplicados en la electrónica mediante la resolución de ejercicios prácticos e información teórica.
+
+#### 1.2 OBJETIVO ESPECIFICOS:
+
+•	Analizar e investigar sobre el tema de las leyes las leyes de Kirchhoff para comprender sus fundamentos y poder entender más sobre sus aplicaciones mediante videos, blogs, etc.
+
+•	Determinar y practicar ejercicios aplicando las leyes de Kirchhoff en circuitos paralelo y serie para su correcta aplicación mediante ejercicios prácticos e información extraída de la web.
 
 ## 2. MARCO TEÓRICO 
   ### 2.1.Antecedentes.
@@ -35,6 +44,16 @@
 
 ## 6. CONCLUSIONES
 
-## 7. BIBLIOGRAFÍA
+•	En la implementación de las leyes de Kirchhoff se ha planteado que para su correcta aplicación los cálculos deben ser aproximados y verificar que los componentes no excedan su capacidad ya que se puede presentar cortos circuitos o caso de alta impedancia.
+
+•	Las leyes de Kirchhoff son un fundamento principal para entender la composición de los circuitos por lo cual si se desea entender los conceptos básicos de la electrónica Kirchhoff es una de las fuentes más importantes a la hora de implementar y para realizar ejercicios.
+
+## 7. Recomendaciones:
+
+•	Aprenderse las leyes de Kirchhoff y su implementación en la electrónica uno de los requisitos mas importantes esto nos ayudara a solucionar problemas y evitar máximos errores, cortos circuitos y altas impedancias.
+
+•	Conocer bien los componentes de electrónica y sus posiciones para realizar los trabajos de manera ordenada y sin problemas estar pendiente de cada punto ya que a la hora de transcribir lo practico a los cálculos estos nos ayudaran a conocer más a fondo el material de electrónica 
+
+## 8. BIBLIOGRAFÍA
 - Biografia de Gustav Kirchhoff. (s. f.). Recuperado 20 de mayo de 2022, de https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm                                 
 - El Gran Kirchhoff. (s.f). Recuperado 20 de mayo de 2022, de http://dcb.fic.unam.mx/CoordinacionesAcademicas/FisicaQuimica/ElectricidadMagnetismo/biografias/7%20Gustav%20Kirchhoff.pdf
