@@ -36,3 +36,4 @@
 ## 6. CONCLUSIONES
 
 ## 7. BIBLIOGRAFÍA
+Biografia de Gustav Kirchhoff. (s. f.). Recuperado 20 de mayo de 2022, de https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
